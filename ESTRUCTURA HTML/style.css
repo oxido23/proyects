@@ -1,0 +1,31 @@
+body {
+    color: brown;
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+
+    color: blue;
+}
+ h6  {
+    color: blueviolet;
+    font-size: inherit
+
+ }
+ h4 {
+    color: aqua;
+ }
+ button {
+    color: blanchedalmond;
+    font-size: large;
+    border: 0ch;
+    background-color: black;
+ }
+p {
+    color: rgb(0, 0, 0);
+}
+b {
+color: black;
+}
+strong {
+color: green;    
+}
